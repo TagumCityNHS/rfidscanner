@@ -1,0 +1,3 @@
+[2024-08-22 01:09:59] Error for 6a440f9cee31d809c5b9817271afb87b64dfc6b3b974c0bb3525161c8e903e28: Student not found
+[2024-08-22 01:11:31] Error for 6a440f9cee31d809c5b9817271afb87b64dfc6b3b974c0bb3525161c8e903e28: Student not found
+[2024-08-22 01:11:45] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'securedlrn' in 'field list'

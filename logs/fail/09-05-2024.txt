@@ -1,0 +1,26 @@
+[2024-09-05 13:09:02] Error for 199999999999: Student not found
+[2024-09-05 13:09:05] Error for 991287701406: Student not found
+[2024-09-05 13:09:09] Error for 281113214324: Student not found
+[2024-09-05 13:11:42] Error for 128870413131: Student not found
+[2024-09-05 13:11:44] Error for 121111111111: Student not found
+[2024-09-05 13:11:44] Error for 111111111111: Student not found
+[2024-09-05 13:11:44] Error for 111111111111: Student not found
+[2024-09-05 13:11:45] Error for 111111111111: Student not found
+[2024-09-05 13:11:45] Error for 111111111111: Student not found
+[2024-09-05 13:11:46] Error for 111111111111: Student not found
+[2024-09-05 13:11:47] Error for 111111111111: Student not found
+[2024-09-05 13:11:49] Error for 111112312311: Student not found
+[2024-09-05 13:11:50] Error for 311111111111: Student not found
+[2024-09-05 13:13:06] Error for 111111111111: Student not found
+[2024-09-05 13:13:33] Error for 111111111111: Student not found
+[2024-09-05 18:11:25] Error for       transf: Student not found
+[2024-09-05 18:11:26] Error for       transf: Student not found
+[2024-09-05 18:17:00] Error for position: ab: Student not found
+[2024-09-05 18:18:30] Error for position: ab: Student not found
+[2024-09-05 19:28:56] Error for 111111111111: Student not found
+[2024-09-05 19:28:58] Error for 111111111111: Student not found
+[2024-09-05 19:30:52] Error for 111111111111: Student not found
+[2024-09-05 19:31:12] Error for 111111111111: Student not found
+[2024-09-05 19:31:50] Error for 109999999999: Student not found
+[2024-09-05 19:32:04] Error for 111111111111: Student not found
+[2024-09-05 19:32:21] Error for 111111111111: Student not found

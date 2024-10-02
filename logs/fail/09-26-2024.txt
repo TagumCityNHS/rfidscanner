@@ -1,0 +1,99 @@
+[2024-09-26 06:20:39] Error for https://eqrc: Student not found
+[2024-09-26 06:20:39] Error for o.de/a/eXzxu: Student not found
+[2024-09-26 07:37:13] Error for City Governm: Student not found
+[2024-09-26 07:37:13] Error for ent of Tagum: Student not found
+[2024-09-26 07:37:13] Error for  - PAL, CRIS: Student not found
+[2024-09-26 07:37:13] Error for  JOHN  ERIBA: Student not found
+[2024-09-26 07:37:13] Error for L - 018342 -: Student not found
+[2024-09-26 07:37:13] Error for  OFFICE OF T: Student not found
+[2024-09-26 07:37:13] Error for HE CITY MAYO: Student not found
+[2024-09-26 07:37:34] Error for City Governm: Student not found
+[2024-09-26 07:37:34] Error for ent of Tagum: Student not found
+[2024-09-26 07:37:34] Error for  - GAMUSA, C: Student not found
+[2024-09-26 07:37:34] Error for HARISH ARIAN: Student not found
+[2024-09-26 07:37:34] Error for E  ARTIAGA -: Student not found
+[2024-09-26 07:37:34] Error for  020328 - OF: Student not found
+[2024-09-26 07:37:34] Error for FICE OF THE : Student not found
+[2024-09-26 14:31:02] Error for https://eqrc: Student not found
+[2024-09-26 14:31:02] Error for o.de/a/eXzxu: Student not found
+[2024-09-26 15:09:45] Error for https://aka.: Student not found
+[2024-09-26 16:09:49] Error for 9c6a0f222439d68e981a75636b4cba8840c8b4327803d4a1942cfdfeddf2cd90: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-26 16:10:09] Error for 9c6a0f222439d68e981a75636b4cba8840c8b4327803d4a1942cfdfeddf2cd90: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-26 16:48:18] Error for 8d359929dc0cb95304ce9661f21eba6f05254d6c364d33446f44e9e2c095b150: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-26 16:51:11] Error for dbdd7ac0a60c9aaed9a36f45e030fb1d4243930d0689d08ceddf2d41406dcb22: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-26 17:38:50] Error for 1fad3b5fdaaa1261cc2c709b5853a695d20aa40ec89bc5a2acc31da6704986da: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-26 18:59:54] Error for .00000000000: Student not found
+[2024-09-26 18:59:54] Error for 000000000000: Student not found
+[2024-09-26 18:59:55] Error for 000000000000: Student not found
+[2024-09-26 18:59:55] Error for 000000000000: Student not found
+[2024-09-26 18:59:55] Error for 000000000000: Student not found
+[2024-09-26 18:59:56] Error for 000000000000: Student not found
+[2024-09-26 18:59:56] Error for 000000000000: Student not found
+[2024-09-26 18:59:57] Error for 000000000000: Student not found
+[2024-09-26 18:59:57] Error for 000000000000: Student not found
+[2024-09-26 18:59:57] Error for 000000000000: Student not found
+[2024-09-26 18:59:58] Error for 000000000000: Student not found
+[2024-09-26 18:59:58] Error for 000000000000: Student not found
+[2024-09-26 18:59:59] Error for 000000000000: Student not found
+[2024-09-26 18:59:59] Error for 000000000000: Student not found
+[2024-09-26 18:59:59] Error for 000000000000: Student not found
+[2024-09-26 19:00:00] Error for 000000000000: Student not found
+[2024-09-26 19:00:00] Error for 000000000000: Student not found
+[2024-09-26 19:00:01] Error for 000000000000: Student not found
+[2024-09-26 19:00:01] Error for 000000000000: Student not found
+[2024-09-26 19:00:01] Error for 000000000000: Student not found
+[2024-09-26 19:00:02] Error for 000000000000: Student not found
+[2024-09-26 19:00:02] Error for 000000000000: Student not found
+[2024-09-26 19:00:03] Error for 000000000000: Student not found
+[2024-09-26 19:00:03] Error for 000000000000: Student not found
+[2024-09-26 19:00:03] Error for 000000000000: Student not found
+[2024-09-26 19:00:04] Error for 000000000000: Student not found
+[2024-09-26 19:00:04] Error for 000000000000: Student not found
+[2024-09-26 19:00:04] Error for 000000000000: Student not found
+[2024-09-26 19:00:05] Error for 000000000000: Student not found
+[2024-09-26 19:00:05] Error for 000000000000: Student not found
+[2024-09-26 19:00:06] Error for 000000000000: Student not found
+[2024-09-26 19:00:06] Error for 000000000000: Student not found
+[2024-09-26 19:00:06] Error for 000000000000: Student not found
+[2024-09-26 19:00:07] Error for 000000000000: Student not found
+[2024-09-26 19:00:07] Error for 000000000000: Student not found
+[2024-09-26 19:00:08] Error for 000000000000: Student not found
+[2024-09-26 19:00:08] Error for 000000000000: Student not found
+[2024-09-26 19:00:08] Error for 000000000000: Student not found
+[2024-09-26 19:00:09] Error for 000000000000: Student not found
+[2024-09-26 19:00:09] Error for 000000000000: Student not found
+[2024-09-26 19:00:10] Error for 000000000000: Student not found
+[2024-09-26 19:00:10] Error for 000000000000: Student not found
+[2024-09-26 19:00:10] Error for 000000000000: Student not found
+[2024-09-26 19:00:11] Error for 000000000000: Student not found
+[2024-09-26 19:00:11] Error for 000000000000: Student not found
+[2024-09-26 19:00:12] Error for 000000000000: Student not found
+[2024-09-26 19:00:12] Error for 000000000000: Student not found
+[2024-09-26 19:00:12] Error for 000000000000: Student not found
+[2024-09-26 19:00:13] Error for 000000000000: Student not found
+[2024-09-26 19:00:13] Error for 000000000000: Student not found
+[2024-09-26 19:00:14] Error for 000000000000: Student not found
+[2024-09-26 19:00:14] Error for 000000000000: Student not found
+[2024-09-26 19:00:14] Error for 000000000000: Student not found
+[2024-09-26 19:00:15] Error for 000000000000: Student not found
+[2024-09-26 19:00:15] Error for 000000000000: Student not found
+[2024-09-26 19:00:16] Error for 000000000000: Student not found
+[2024-09-26 19:00:16] Error for 000000000000: Student not found
+[2024-09-26 19:00:16] Error for 000000000000: Student not found
+[2024-09-26 19:00:17] Error for 000000000000: Student not found
+[2024-09-26 19:00:17] Error for 000000000000: Student not found
+[2024-09-26 19:00:18] Error for 000000000000: Student not found
+[2024-09-26 19:00:18] Error for 000000000000: Student not found
+[2024-09-26 19:00:18] Error for 000000000000: Student not found
+[2024-09-26 19:00:19] Error for 000000000000: Student not found
+[2024-09-26 19:00:19] Error for 000000000000: Student not found
+[2024-09-26 19:00:20] Error for 000000000000: Student not found
+[2024-09-26 19:00:20] Error for 000000000000: Student not found
+[2024-09-26 19:00:20] Error for 000000000000: Student not found
+[2024-09-26 19:00:21] Error for 000000000000: Student not found
+[2024-09-26 19:00:21] Error for 000000000000: Student not found
+[2024-09-26 19:00:22] Error for 000000000000: Student not found
+[2024-09-26 19:00:22] Error for 000000000000: Student not found
+[2024-09-26 19:00:22] Error for 000000000000: Student not found
+[2024-09-26 19:00:23] Error for 000000000000: Student not found
+[2024-09-26 19:00:23] Error for 000000000000: Student not found

@@ -1,0 +1,58 @@
+[2024-09-25 07:38:19] Error for City Governm: Student not found
+[2024-09-25 07:38:19] Error for ent of Tagum: Student not found
+[2024-09-25 07:38:19] Error for  - OCARIZ, A: Student not found
+[2024-09-25 07:38:19] Error for LEC ZANDER  : Student not found
+[2024-09-25 07:38:19] Error for CATUBIGAN - : Student not found
+[2024-09-25 07:38:19] Error for 018825 - OFF: Student not found
+[2024-09-25 07:38:19] Error for ICE OF THE C: Student not found
+[2024-09-25 09:01:26] Error for kg ---------: Student not found
+[2024-09-25 09:01:27] Error for ------------: Student not found
+[2024-09-25 09:01:27] Error for ------------: Student not found
+[2024-09-25 09:01:28] Error for ------------: Student not found
+[2024-09-25 09:01:29] Error for ------------: Student not found
+[2024-09-25 09:01:29] Error for ------------: Student not found
+[2024-09-25 09:01:30] Error for ------------: Student not found
+[2024-09-25 09:01:30] Error for ------------: Student not found
+[2024-09-25 10:35:24] Error for ------City G: Student not found
+[2024-09-25 10:35:24] Error for overnment of: Student not found
+[2024-09-25 10:35:24] Error for  Tagum - GAM: Student not found
+[2024-09-25 10:35:24] Error for USA, CHARISH: Student not found
+[2024-09-25 10:35:24] Error for  ARIANE  ART: Student not found
+[2024-09-25 10:35:24] Error for IAGA - 02032: Student not found
+[2024-09-25 10:35:24] Error for 8 - OFFICE O: Student not found
+[2024-09-25 10:35:24] Error for F THE CITY M: Student not found
+[2024-09-25 10:35:47] Error for City Governm: Student not found
+[2024-09-25 10:35:47] Error for ent of Tagum: Student not found
+[2024-09-25 10:35:47] Error for  - GAMUSA, C: Student not found
+[2024-09-25 10:35:47] Error for HARISH ARIAN: Student not found
+[2024-09-25 10:35:47] Error for E  ARTIAGA -: Student not found
+[2024-09-25 10:35:47] Error for  020328 - OF: Student not found
+[2024-09-25 10:35:47] Error for FICE OF THE : Student not found
+[2024-09-25 16:05:00] Error for f77dc3ec10c86db12ca8fec89e6f11cced6dfdaeb4e61312b55e07cfec4105eb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 16:05:53] Error for f77dc3ec10c86db12ca8fec89e6f11cced6dfdaeb4e61312b55e07cfec4105eb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 16:06:34] Error for 777a8fb013a418dd1aa8abfb05c7c93f8bd17d45fbc7dd02279dc1fd547a7acb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 16:06:54] Error for d33d94546132eaff19f2e821dbc5f67fedfa3f9a283dc0b1f5db119c644af241: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 16:07:31] Error for f77dc3ec10c86db12ca8fec89e6f11cced6dfdaeb4e61312b55e07cfec4105eb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 16:07:44] Error for f77dc3ec10c86db12ca8fec89e6f11cced6dfdaeb4e61312b55e07cfec4105eb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 16:09:00] Error for c7daecf4abbd5c934e54c246919f4f43c502f0452e248165895bef68209a71fb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 16:09:14] Error for 7ec356983a4474ec0bf2f95ba11087cd454b79814cdcf69049f127403a3a3dd9: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 16:32:11] Error for a0cf4454cad6de648a77c28d25a68a1c625fdcb3a6925b88313c92edd3370fcb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 17:01:19] Error for f402ea92abbebbc7ecd6bfc9c0c0b9b1483c25a2a4b2d57d9fc456a4d33bb45f: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 17:08:11] Error for 03da5e06842a8bada832677a6824620f36fcb953b11b739fb96459585583dafe: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 17:10:12] Error for 5c29e02fea6d1718d0e8de3eba8a1fbf5991fc91bda86636ed3d2acb49a6e837: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-25 18:33:43] Error for https://eqrc: Student not found
+[2024-09-25 18:33:43] Error for o.de/a/eXzxu: Student not found
+[2024-09-25 18:33:59] Error for https://eqrc: Student not found
+[2024-09-25 18:33:59] Error for o.de/a/eXzxu: Student not found
+[2024-09-25 18:43:30] Error for https://aka.: Student not found
+[2024-09-25 19:55:05] Error for https://eqrc: Student not found
+[2024-09-25 19:55:05] Error for o.de/a/eXzxu: Student not found
+[2024-09-25 19:55:41] Error for nhttps://eqr: Student not found
+[2024-09-25 19:55:41] Error for co.de/a/eXzx: Student not found
+[2024-09-25 19:55:42] Error for https://eqrc: Student not found
+[2024-09-25 19:55:42] Error for o.de/a/eXzxu: Student not found
+[2024-09-25 19:55:48] Error for https://eqrc: Student not found
+[2024-09-25 19:55:48] Error for o.de/a/eXzxu: Student not found
+[2024-09-25 19:58:19] Error for hectorhttps:: Student not found
+[2024-09-25 19:58:19] Error for //aka.ms/Fix: Student not found
+[2024-09-25 19:59:43] Error for melendres he: Student not found

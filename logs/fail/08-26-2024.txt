@@ -1,0 +1,58 @@
+[2024-08-26 08:18:20] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'scanner' in 'field list'
+[2024-08-26 08:18:29] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'scanner' in 'field list'
+[2024-08-26 08:18:38] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'scanner' in 'field list'
+[2024-08-26 08:18:53] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'scanner' in 'field list'
+[2024-08-26 08:21:37] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'scanner' in 'field list'
+[2024-08-26 08:22:47] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'scanner' in 'field list'
+[2024-08-26 08:22:59] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'scanner' in 'field list'
+[2024-08-26 08:26:10] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Error: Unknown column 'scanner' in 'field list'
+[2024-08-26 08:33:35] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: [MYSQL] error (ER_BAD_FIELD_ERROR): Unknown column 'scanner' in 'field list'
+[2024-08-26 08:33:59] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: [MYSQL] error (ER_BAD_FIELD_ERROR): Unknown column 'scanner' in 'field list'
+[2024-08-26 08:34:16] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: [MYSQL] error (ER_BAD_FIELD_ERROR): Unknown column 'scanner' in 'field list'
+[2024-08-26 08:34:58] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: [MYSQL] error (ER_BAD_FIELD_ERROR): Unknown column 'scanner' in 'field list'
+[2024-08-26 08:36:56] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: [MYSQL] error (ER_BAD_FIELD_ERROR): Unknown column 'scanner' in 'field list'
+[2024-08-26 08:37:23] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: [MYSQL] error (ER_BAD_FIELD_ERROR): Unknown column 'scanner' in 'field list'
+[2024-08-26 08:38:48] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: [MYSQL] error (ER_BAD_FIELD_ERROR): Unknown column 'scanner' in 'field list'
+[2024-08-26 08:38:53] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: [MYSQL] error (ER_BAD_FIELD_ERROR): Unknown column 'scanner' in 'field list'
+[2024-08-26 08:41:45] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Student not found
+[2024-08-26 08:42:17] Error for 9f2b6610a1e2e7fe156d25a685430da615943c8c4e3d0bce4ecd3df6f8cf1251: Student not found
+[2024-08-26 10:38:08] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 10:39:50] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 10:39:55] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:36:10] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:36:15] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:36:21] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:38:00] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:40:06] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:45:18] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:45:59] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:49:10] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:49:21] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:50:11] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:50:25] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:51:08] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:51:21] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:52:58] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 11:55:04] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 13:38:20] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 13:38:25] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 13:44:33] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 13:44:43] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 14:28:09] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 14:41:47] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 14:52:46] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 15:05:27] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 15:25:09] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 15:25:12] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 15:25:23] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:32:02] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:32:11] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:36:29] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:36:54] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:42:34] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:44:15] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:48:38] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:56:56] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 16:57:05] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 17:23:33] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found
+[2024-08-26 17:27:10] Error for 2cd057dde02d18c921a0f3388668f19364ef13f3cbc14e46c57524e983eb763e: Student not found

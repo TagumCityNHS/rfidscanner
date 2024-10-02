@@ -1,0 +1,143 @@
+[2024-09-24 05:56:36] Error for 1613f6355f2d68eb781380d4afe26a294bd31304235e845ff0eb89b5fa1c0cd1: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-24 07:03:52] Error for City Governm: Student not found
+[2024-09-24 07:03:52] Error for ent of Tagum: Student not found
+[2024-09-24 07:03:52] Error for  - OCARIZ, A: Student not found
+[2024-09-24 07:03:52] Error for LEC ZANDER  : Student not found
+[2024-09-24 07:03:52] Error for CATUBIGAN - : Student not found
+[2024-09-24 07:03:52] Error for 018825 - OFF: Student not found
+[2024-09-24 07:03:52] Error for ICE OF THE C: Student not found
+[2024-09-24 07:27:01] Error for https://eqrc: Student not found
+[2024-09-24 07:27:01] Error for o.de/a/eXzxu: Student not found
+[2024-09-24 07:39:50] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:39:57] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:40:00] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:40:10] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:41:17] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:41:24] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:41:31] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:41:50] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:41:55] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:42:43] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 07:42:50] Error for 12944f22333c049006e2bdbf7b2ea12fdc4569c21f044eb8c4ccf9b558a3e1f7: Student not found
+[2024-09-24 10:54:55] Error for City Governm: Student not found
+[2024-09-24 10:54:55] Error for ent of Tagum: Student not found
+[2024-09-24 10:54:55] Error for  - OCARIZ, A: Student not found
+[2024-09-24 10:54:55] Error for LEC ZANDER  : Student not found
+[2024-09-24 10:54:55] Error for CATUBIGAN - : Student not found
+[2024-09-24 10:54:55] Error for 018825 - OFF: Student not found
+[2024-09-24 10:54:55] Error for ICE OF THE C: Student not found
+[2024-09-24 11:00:49] Error for City Governm: Student not found
+[2024-09-24 11:00:49] Error for ent of Tagum: Student not found
+[2024-09-24 11:00:49] Error for  - GAMUSA, C: Student not found
+[2024-09-24 11:00:49] Error for HARISH ARIAN: Student not found
+[2024-09-24 11:00:49] Error for E  ARTIAGA -: Student not found
+[2024-09-24 11:00:49] Error for  020328 - OF: Student not found
+[2024-09-24 11:00:49] Error for FICE OF THE : Student not found
+[2024-09-24 11:05:43] Error for City Governm: Student not found
+[2024-09-24 11:05:43] Error for ent of Tagum: Student not found
+[2024-09-24 11:05:43] Error for  - GAMUSA, C: Student not found
+[2024-09-24 11:05:43] Error for HARISH ARIAN: Student not found
+[2024-09-24 11:05:43] Error for E  ARTIAGA -: Student not found
+[2024-09-24 11:05:43] Error for  020328 - OF: Student not found
+[2024-09-24 11:05:43] Error for FICE OF THE : Student not found
+[2024-09-24 11:07:09] Error for City Governm: Student not found
+[2024-09-24 11:07:09] Error for ent of Tagum: Student not found
+[2024-09-24 11:07:09] Error for  - FORNOLLES: Student not found
+[2024-09-24 11:07:09] Error for , VICENTE  A: Student not found
+[2024-09-24 11:07:09] Error for LMADRO - 019: Student not found
+[2024-09-24 11:07:09] Error for 750 - OFFICE: Student not found
+[2024-09-24 11:07:09] Error for  OF THE CITY: Student not found
+[2024-09-24 11:40:41] Error for 040537617000: Student not found
+[2024-09-24 13:01:48] Error for -12877      : Student not found
+[2024-09-24 13:43:26] Error for             : Student not found
+[2024-09-24 13:43:27] Error for             : Student not found
+[2024-09-24 13:43:27] Error for             : Student not found
+[2024-09-24 13:43:28] Error for             : Student not found
+[2024-09-24 13:43:28] Error for             : Student not found
+[2024-09-24 13:43:28] Error for             : Student not found
+[2024-09-24 13:43:29] Error for             : Student not found
+[2024-09-24 13:43:29] Error for             : Student not found
+[2024-09-24 13:43:29] Error for             : Student not found
+[2024-09-24 13:43:30] Error for             : Student not found
+[2024-09-24 13:43:30] Error for             : Student not found
+[2024-09-24 13:43:31] Error for             : Student not found
+[2024-09-24 13:43:31] Error for             : Student not found
+[2024-09-24 13:43:31] Error for             : Student not found
+[2024-09-24 13:43:32] Error for             : Student not found
+[2024-09-24 13:43:32] Error for             : Student not found
+[2024-09-24 13:43:33] Error for             : Student not found
+[2024-09-24 13:43:33] Error for             : Student not found
+[2024-09-24 13:43:33] Error for             : Student not found
+[2024-09-24 13:43:34] Error for             : Student not found
+[2024-09-24 13:43:34] Error for             : Student not found
+[2024-09-24 13:43:35] Error for             : Student not found
+[2024-09-24 13:43:35] Error for             : Student not found
+[2024-09-24 13:43:35] Error for             : Student not found
+[2024-09-24 13:43:36] Error for             : Student not found
+[2024-09-24 13:43:36] Error for             : Student not found
+[2024-09-24 13:43:37] Error for             : Student not found
+[2024-09-24 13:43:37] Error for             : Student not found
+[2024-09-24 13:43:37] Error for             : Student not found
+[2024-09-24 13:43:38] Error for             : Student not found
+[2024-09-24 13:43:38] Error for             : Student not found
+[2024-09-24 13:43:39] Error for             : Student not found
+[2024-09-24 13:43:39] Error for             : Student not found
+[2024-09-24 13:43:39] Error for             : Student not found
+[2024-09-24 13:43:40] Error for             : Student not found
+[2024-09-24 13:43:40] Error for             : Student not found
+[2024-09-24 13:43:41] Error for             : Student not found
+[2024-09-24 13:43:41] Error for             : Student not found
+[2024-09-24 13:43:41] Error for             : Student not found
+[2024-09-24 13:43:42] Error for             : Student not found
+[2024-09-24 13:43:42] Error for             : Student not found
+[2024-09-24 13:43:43] Error for             : Student not found
+[2024-09-24 13:43:43] Error for             : Student not found
+[2024-09-24 13:43:43] Error for             : Student not found
+[2024-09-24 13:43:44] Error for             : Student not found
+[2024-09-24 13:43:44] Error for             : Student not found
+[2024-09-24 13:43:45] Error for             : Student not found
+[2024-09-24 13:43:45] Error for             : Student not found
+[2024-09-24 13:43:45] Error for             : Student not found
+[2024-09-24 13:43:46] Error for             : Student not found
+[2024-09-24 13:43:46] Error for             : Student not found
+[2024-09-24 13:43:47] Error for             : Student not found
+[2024-09-24 13:43:47] Error for             : Student not found
+[2024-09-24 13:43:47] Error for             : Student not found
+[2024-09-24 13:43:48] Error for             : Student not found
+[2024-09-24 13:43:48] Error for             : Student not found
+[2024-09-24 13:43:48] Error for             : Student not found
+[2024-09-24 13:43:49] Error for             : Student not found
+[2024-09-24 13:43:49] Error for             : Student not found
+[2024-09-24 13:43:50] Error for             : Student not found
+[2024-09-24 13:43:50] Error for             : Student not found
+[2024-09-24 13:43:50] Error for             : Student not found
+[2024-09-24 13:43:51] Error for             : Student not found
+[2024-09-24 13:43:51] Error for             : Student not found
+[2024-09-24 13:43:52] Error for             : Student not found
+[2024-09-24 13:43:52] Error for             : Student not found
+[2024-09-24 13:43:52] Error for             : Student not found
+[2024-09-24 13:43:53] Error for             : Student not found
+[2024-09-24 13:43:53] Error for             : Student not found
+[2024-09-24 13:43:54] Error for             : Student not found
+[2024-09-24 13:43:54] Error for             : Student not found
+[2024-09-24 14:05:49] Error for           ht: Student not found
+[2024-09-24 14:05:49] Error for tps://eqrco.: Student not found
+[2024-09-24 14:57:26] Error for https://eqrc: Student not found
+[2024-09-24 14:57:26] Error for o.de/a/eXzxu: Student not found
+[2024-09-24 15:46:44] Error for https://eqrc: Student not found
+[2024-09-24 15:46:44] Error for o.de/a/eXzxu: Student not found
+[2024-09-24 15:46:54] Error for https://eqrc: Student not found
+[2024-09-24 15:46:54] Error for o.de/a/eXzxu: Student not found
+[2024-09-24 16:20:35] Error for http://deped: Student not found
+[2024-09-24 16:20:35] Error for .tagumcity.g: Student not found
+[2024-09-24 16:20:36] Error for http://deped: Student not found
+[2024-09-24 16:20:36] Error for .tagumcity.g: Student not found
+[2024-09-24 16:20:39] Error for http://deped: Student not found
+[2024-09-24 16:20:39] Error for .tagumcity.g: Student not found
+[2024-09-24 16:59:35] Error for 9+https://ak: Student not found
+[2024-09-24 16:59:35] Error for a.ms/FixWiFi: Student not found
+[2024-09-24 16:59:54] Error for https://aka.: Student not found
+[2024-09-24 19:37:30] Error for https://eqrc: Student not found
+[2024-09-24 19:37:30] Error for o.de/a/eXzxu: Student not found
+[2024-09-24 19:37:59] Error for https://eqrc: Student not found
+[2024-09-24 19:37:59] Error for o.de/a/eXzxu: Student not found

@@ -1,0 +1,40 @@
+[2024-09-30 16:14:14] Error for   ..01287981: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:14:56] Error for 405376170009: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:14:59] Error for 128770170067: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:15:34] Error for 4f2631836417462dfb4c4c001d0f2a5eae5be0b48a089f2ba504c6f863a26eeb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:15:42] Error for 4f2631836417462dfb4c4c001d0f2a5eae5be0b48a089f2ba504c6f863a26eeb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:24:59] Error for 128771170286: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:25:25] Error for a18ac4e6fbd3fc024a07a21dafbac37d828ca8a04a0e34f368f1ec54e0d4fffb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:25:34] Error for a18ac4e6fbd3fc024a07a21dafbac37d828ca8a04a0e34f368f1ec54e0d4fffb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:25:43] Error for a18ac4e6fbd3fc024a07a21dafbac37d828ca8a04a0e34f368f1ec54e0d4fffb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:25:47] Error for a18ac4e6fbd3fc024a07a21dafbac37d828ca8a04a0e34f368f1ec54e0d4fffb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:25:51] Error for a18ac4e6fbd3fc024a07a21dafbac37d828ca8a04a0e34f368f1ec54e0d4fffb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:30:49] Error for 495013170051: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:30:56] Error for 128770170018: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:33:27] Error for 128776170015: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:35:43] Error for 408365170001: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:36:54] Error for 495013170029: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:38:20] Error for 128771170459: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:42:45] Error for 4fde035a64125e6a6d3f510d1464d09c9a6784d199a10db3058a8158225343d9: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:42:52] Error for 495013170048: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:42:58] Error for 495013170048: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:42:59] Error for 495013170048: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:46:26] Error for 9c6a0f222439d68e981a75636b4cba8840c8b4327803d4a1942cfdfeddf2cd90: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 16:58:03] Error for 495013170149: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:02:20] Error for 495013170045: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:05:42] Error for 128771170134: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:06:58] Error for 128770170244: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:07:05] Error for 29bb9e0c45a5f10a9b87d7786e40556cbdb30068a45f1834f384f462ebf3ebee: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:11:27] Error for 495014160058: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:15:52] Error for 128770170097: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:17:04] Error for 128770170287: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:17:05] Error for 128770170287: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:17:15] Error for 128770170287: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:24:05] Error for 405586170071: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:25:59] Error for 495014160036: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:26:01] Error for 128770170009: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:26:33] Error for 128771170009: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 17:43:24] Error for a18ac4e6fbd3fc024a07a21dafbac37d828ca8a04a0e34f368f1ec54e0d4fffb: [MYSQL] error (undefined): Can't add new command when connection is in closed state
+[2024-09-30 19:25:52] Error for https://aka.: Student not found
+[2024-09-30 19:46:56] Error for https://aka.: Student not found
+[2024-09-30 20:15:40] Error for https://aka.: Student not found
