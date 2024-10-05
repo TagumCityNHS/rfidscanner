@@ -29,7 +29,7 @@ const sendEmailNotification = async (student, lrn, timestamp, type) => {
   const emailHtml = getEmailHtml(fullName, lrn, timestamp, type);
 
   const mailOptions = {
-    from: process.env.EMAIL_USER,
+    from: `"TCNHS RFID" <${process.env.EMAIL_USER}>`,
     to: student.email,
     subject: 'Student Scan Notification',
     html: emailHtml,
