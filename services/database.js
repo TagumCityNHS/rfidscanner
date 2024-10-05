@@ -33,7 +33,18 @@ const insertData = (tableName, data) => {
   });
 };
 
+// Function to update data in a specified table
+const updateData = (tableName, id, data) => {
+  return new Promise((resolve, reject) => {
+    connection.query(`UPDATE ${tableName} SET ? WHERE id = ?`, [data, id], (error, results) => {
+      if (error) return reject(`[MYSQL] error (${error.code}): ${error.message}`); // Format error message
+      resolve(results);
+    });
+  });
+};
+
 module.exports = {
   fetchData,
-  insertData, 
+  insertData,
+  updateData, // Add updateData to exports
 };
