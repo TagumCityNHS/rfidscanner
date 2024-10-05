@@ -4,12 +4,12 @@ const Bottleneck = require('bottleneck');
 
 // Create a reusable transporter instance
 const transporter = nodemailer.createTransport({
-  host: 'smtp.gmail.com',
+  host: 'mail.tagumcitynhs.ph',
   port: 465,
   secure: true,
   auth: {
-    user: 'tagumcity.nhs@deped.gov.ph',
-    pass: 'pcyb vqmh qnxc tasf',
+    user: 'no-reply@tagumcitynhs.ph',
+    pass: '(w3Z0W9@,$+o',
   },
 });
 
